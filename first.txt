@@ -1,2 +1,3 @@
 Hi I am first file.
 Hi I am to be committed at second time.
+Hi I am text added from GitHub.
